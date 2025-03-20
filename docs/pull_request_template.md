@@ -8,7 +8,7 @@
 
 ##Types of changes
 
-*What types of changes does your code introduce to Periodikal?*
+**What types of changes does your code introduce to Periodikal?**
 
 Put an x in the boxes that apply
 
