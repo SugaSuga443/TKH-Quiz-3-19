@@ -1,6 +1,6 @@
 ##Proposed changes LINE BREAK
 
-## Link to Product Tracker ITALICS - This will be a link to the issue you are specifically tasked with resolving.
+## Link to Product Tracker *This will be a link to the issue you are specifically tasked with resolving.*
 
 ##Link to Figma/Zeplin
 
